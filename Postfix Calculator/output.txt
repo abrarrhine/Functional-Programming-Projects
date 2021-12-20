@@ -1,0 +1,32 @@
+Too few closing parenthesis
+59 14 -   = 45
+8 14  *  = 112
+Too few closing parenthesis
+38 72 49 +  +  = 159
+32 40 + 69 40 94 - 19 / 71 86 * 71 * * -  -  = -1300575
+30 88 1 11 + 85 96 / + 42 + 34 - +  -  = -78
+74 74  *  = 5476
+85 58 4 97 86 + 20 - * 87 * 65 84 * +  / +  = 85
+57 92 / 75 16 / 64 / 57 * + 68  -  = -68
+54 61 37  * 
+			Too few operations
+88 20 83 + 66 43 / + 80 - 43 +  -  = 21
+Too few opening parenthesis
+Too few opening parenthesis
+30 74 - 89 68  / -  = -45
+64 58 22 52 4 - 41 58 * + +  / +  = 64
+88 24 + 86 + 62 27 * - 52 36  - 
+			Too few operations
+91 18 * 15 + 72 94 / 31 47  * + 
+			Too few operations
+78 18 - 59 + 16 - 5 + 57  +  = 165
+96 86 27 + 21 74 * - 17 + 94 + 47 59 * -  /  = -1
+2 57 - 12 + 99  -  = -142
+Too few opening parenthesis
+91 89 * 70 * 40 60 / +   = 566930
+16 52 28 * 16 70 / 52 / 14 / / -  
+			Attempted division by 0
+Too few closing parenthesis
+Too few opening parenthesis
+36 69 35  / +  = 37
+24 22 / 4 - 31 3 * 63 / 92 / - 43 -   = -46
