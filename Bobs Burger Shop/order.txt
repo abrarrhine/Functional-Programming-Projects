@@ -1,0 +1,15 @@
+Order 1
+Burger
+    add cheese
+    remove mustard
+    add salsa
+beer
+fries
+burger of the day
+    add cheese
+drink
+fries
+salad
+burger
+    add mayonaise
+    remove cheese

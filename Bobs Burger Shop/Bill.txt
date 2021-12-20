@@ -1,0 +1,15 @@
+ Guest Check                         Order:     1
+--------------------------------------------------
+ Burger                                     $5.50 
+ * Ketchup Lettuce Tomato Onion Cheese Salsa 
+ Beer                                       $4.00
+ Fries                                      $2.00
+ Burger of the day                          $6.45
+ * add Cheese
+ Soft Drink                                 $2.00
+ Fries                                      $2.00
+ Salad                                      $2.50
+ Burger                                     $5.00
+ * Mustard Ketchup Lettuce Tomato Onion Mayonaise 
+--------------------------------------------------
+ Total:                                    $29.45
