@@ -1,0 +1,11 @@
+ (  [  {  book  }  *  with  *  <  mean  >  <  green  >  {  alice  }  *  of  *  <  mean  >  <  lean  >  {  book  }  *  at  *  {  cow  }  ]  )  [  %  found  %  $  brilliantly  $  ]  (  [  <  green  >  {  cow  }  *  at  *  <  lean  >  {  alice  }  *  with  *  {  cow  }  *  at  *  <  lean  >  {  alice  }  ]  ) 
+ (  [  <  mean  >  <  mean  >  {  alice  }  *  at  *  {  alice  }  *  of  *  <  lean  >  {  cow  }  ]  )  [  %  saw  %  ]  (  [  {  cow  }  *  at  *  {  cow  }  ]  ) 
+ (  [  <  lean  >  {  alice  }  ]  )  [  %  saw  %  ]  (  [  {  book  }  *  of  *  {  cow  }  *  of  *  <  green  >  <  mean  >  {  alice  }  *  of  *  <  green  >  <  lean  >  {  cow  }  *  with  *  <  green  >  {  alice  }  ]  ) 
+ (  [  {  alice  }  ]  )  [  %  saw  %  $  carefully  $  ]  (  [  {  book  }  ]  ) 
+ (  [  <  lean  >  <  lean  >  {  cow  }  *  at  *  {  alice  }  ]  )  [  %  saw  %  $  brilliantly  $  ]  (  [  <  green  >  {  cow  }  *  of  *  <  lean  >  <  lean  >  {  alice  }  ]  ) 
+ input  has  invalid  tokens 
+ input  has  invalid  tokens 
+ input is not a sentence 
+ input  has  invalid  tokens 
+ input  has  invalid  tokens 
+ ]  ) 
